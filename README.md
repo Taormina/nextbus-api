@@ -3,9 +3,10 @@
 An API for GT's NextBus Application.
 
 ##Dependicies
-Python 2.7
-web.py
-BeautifulSoup4
+
+- Python 2.7
++ web.py
++ BeautifulSoup4
 
 ##Request Syntax
 >GET /route/destination/stop
