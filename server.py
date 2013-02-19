@@ -1,4 +1,5 @@
-import web, urllib2, json
+import web, urllib2, json, os
+from flask import Flask
 from bs4 import BeautifulSoup
         
 urls = ('/(.*)/(.*)/(.*)', 'hello')
