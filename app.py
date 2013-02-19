@@ -1,4 +1,3 @@
-import os
 import urllib2, json, os
 from flask import Flask
 from bs4 import BeautifulSoup
