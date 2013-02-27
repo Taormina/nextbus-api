@@ -19,3 +19,8 @@ The array consists of "Arr." for Arriving, "Dep." for Departing, or a integer fo
 
 ###If invalid:
 >{"predictions":"error"}
+
+###Live Site
+>http://quiet-fjord-4717.herokuapp.com/route/direction/stop
+
+>[http://quiet-fjord-4717.herokuapp.com/red/clockwise/fitten](http://quiet-fjord-4717.herokuapp.com/red/stuff/fitten)
